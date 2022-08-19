@@ -10,6 +10,8 @@ The task is to build a text editor that runs in the browser. The app will be a s
 
 ## Video Walkthrough
 
+(https://drive.google.com/drive/folders/1pxLk1XbGpUAXeHpWE41ZO9219-k4L7zi?usp=sharing)
+
 ## Technology Used
 
 GitHub
