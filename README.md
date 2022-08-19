@@ -19,7 +19,7 @@ git clone repository
 
 cd into pwa-text-editor
 
-npm run  start on pwa-text-editor folder
+npm run  start on pwa-text-editor
 
 ```
 
