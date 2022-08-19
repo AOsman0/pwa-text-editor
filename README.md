@@ -12,6 +12,17 @@ The task is to build a text editor that runs in the browser. The app will be a s
 
 (https://drive.google.com/drive/folders/1pxLk1XbGpUAXeHpWE41ZO9219-k4L7zi?usp=sharing)
 
+## Installation Procedure
+
+```
+git clone repository
+
+cd into pwa-text-editor
+
+npm run  start on pwa-text-editor folder
+
+```
+
 ## Technology Used
 
 GitHub
